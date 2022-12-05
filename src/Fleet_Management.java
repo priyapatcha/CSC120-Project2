@@ -85,7 +85,6 @@ public class Fleet_Management {
     //method displaying exit message
     public static void displayExit() {
         System.out.print("\nExiting the Fleet Management System");
-        System.exit(0);
     }
 
     //menu method allowing user to choose which function they would like to perform on fleet collection
